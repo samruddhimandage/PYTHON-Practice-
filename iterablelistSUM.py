@@ -5,6 +5,7 @@ def main():
         print(no)
         
     Marks[2]=59
+    print("--------------------------------------")
     
     for no in Marks:
         print(no)
