@@ -1,5 +1,5 @@
 Data = [11,21,51,101]      #list
 print("Data from list is :",Data)
 
-for no in Data:
+for no in Data:            #no is actual data
     print(no)
