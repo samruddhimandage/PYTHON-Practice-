@@ -1,8 +1,9 @@
 def summation(Data):
     sum =0
     
-    for no in Data:
-        sum = sum +0
+    for no in Data:         #here no have each element of data
+     
+        sum = sum +0          #iteration logic
         
     return sum 
             
@@ -15,9 +16,9 @@ def main():
     
     print("entr the elements :")
     
-    for no in range(Size):
-        no = int (input())
-        Marks.append(no)
+    for i in range(Size):     #here i will tell iteration
+        no = int (input())    #this is the process which will iterqate for the i times
+        Marks.append(no)       #this is the process which will iterqate for the i times
   
     ret = summation(Marks)
     
