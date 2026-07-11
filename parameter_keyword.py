@@ -5,6 +5,7 @@ def Area(Radius, Pi):
 def main():
     ret =Area(Pi=10.5,Radius= 3.14)
     print("Area if circle is :",ret)
+    print("Area if circle is :",ret)
            
 if __name__=="__main__":
     main()
