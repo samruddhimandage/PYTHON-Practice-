@@ -3,7 +3,7 @@
 
 def marvellous(No1 , No2):
     print("age of son and father is s :",No1,No2)
-    return 21
+    return 25
     
 def main():
    ret=marvellous(11 , 51) 
