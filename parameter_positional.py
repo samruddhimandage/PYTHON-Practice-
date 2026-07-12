@@ -6,7 +6,7 @@ def main():
     ret =Area(10.5,3.14)
     print("Area if circle is :",ret)
         
-    ret =Area(13.6,7.12)
+    ret =Area(12.6,7.12)
     print("Area if circle is :",ret)
     
     value1=int(input("enter 1st no :"))
