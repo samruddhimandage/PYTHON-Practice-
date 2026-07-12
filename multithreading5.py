@@ -14,7 +14,7 @@ def sumodd(No):
     print("summation of odd :",sum)
     
 def main():
-    sumeven(10000000)
+    sumeven(1000000)
     
     sumodd(10000000) 
 
