@@ -10,7 +10,7 @@ class Arithmatic:
 
     def Substarction(self):
         Ans= self.No1 - self.No2
-        return Ans 
+        return Ans
     
 
 print("Enter 1st number :")
