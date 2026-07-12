@@ -11,7 +11,7 @@ def Addition (no1 , no2):
 
 def main():
     
-    Data = [13,12,8,10,11,20]                        
+    Data = [12,8,10,11,20]                        
     print("Input data is :",Data)
     
     FData = list(filter(CheckEven,Data))                                
