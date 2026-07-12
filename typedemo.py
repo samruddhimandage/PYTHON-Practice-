@@ -1,5 +1,5 @@
 #numeric
-no=11                      #int
+no=10                      #int
 marks=90.78                #float
 value=8+5j                 #complex
  
