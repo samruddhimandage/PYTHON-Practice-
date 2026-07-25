@@ -53,8 +53,10 @@ def findduplicate(Directoryname):
 def deleteDuplicate(directoryname):
     
     MyDict = findduplicate(directoryname)
-    return MyDict    
 
+    result = list(filter(lambda x: len ( x ) > 1 ,MyDict.values()))
+    
+    return result
         
 def main():
     data=deleteDuplicate("test")
