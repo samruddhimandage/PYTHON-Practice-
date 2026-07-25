@@ -8,11 +8,11 @@ def calculatechecksum(filename):
     
     hobj = hashlib.md5()          #object of md5 which is presnt in hashlib
     
-    Buffer = fobj.read(1000)      #read 1000 bit and stored it in array name as buffer
+    Buffer = fobj.read(1024)      #read 1000 bit and stored it in array name as buffer
     
     while(len(Buffer)>0):
         hobj.update(Buffer)
-        Buffer = fobj.read(1000)
+        Buffer = fobj.read(1024)           # 1024 bytes = 
 
     fobj.close()
     
@@ -25,3 +25,4 @@ def main():
 if __name__=="__main__":
     main()
     
+# checksum of file is : d7b303fa96470ff6583ac3678a2ab002               : 32 bytes  
