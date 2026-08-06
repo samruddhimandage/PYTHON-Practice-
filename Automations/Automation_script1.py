@@ -1,6 +1,5 @@
 import sys
 
-
 def main():
     
     DirectoryName=sys.argv[1]
