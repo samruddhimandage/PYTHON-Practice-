@@ -3,7 +3,7 @@ import sys
 def main():
     Border = "-"*60
     print(Border)
-    print("Welcome to marvellous Automation script")
+    print("Welcome to Automation script")
     print(Border)
 
     if(len(sys.argv)==2):
@@ -25,7 +25,7 @@ def main():
         print("please use --h or --u for more info")
     
     print(Border)
-    print("Thank you for using marvellous Automation script")
+    print("Thank you for using Automation script")
     print(Border)
 
 if __name__=="__main__":
