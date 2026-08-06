@@ -3,7 +3,7 @@ import sys
 def main():
     
     print("-------------------------------------------------------------")
-    print("Welcome to marvellous Automation script")
+    print("Welcome to Automation script")
     print("-------------------------------------------------------------")
 
     if(len(sys.argv)==2):
@@ -25,7 +25,7 @@ def main():
         print("please use --h or --u for more info")
     
     print("-------------------------------------------------------------")
-    print("Thank you for using marvellous Automation script")
+    print("Thank you for using Automation script")
     print("-------------------------------------------------------------")
 
 if __name__=="__main__":
