@@ -1,6 +1,6 @@
 import sys
 import os
-import hashlib                                             #module / library which have checksums functions / for md file
+import hashlib                    #module / library which have checksums functions / for md file
 
 def calculatechecksum(filename):
     
