@@ -25,7 +25,7 @@ def main():
     
     sender_email = "samruddhimandage3@gmail.com"
 
-    app_password = "ueld gozh zeua emcr"
+    app_password = "____________________________"   # password is private hence it is not written here
 
     receiver_email = "vikrantsp.2808@gmail.com"
     
