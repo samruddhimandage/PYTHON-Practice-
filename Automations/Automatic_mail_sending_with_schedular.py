@@ -1,5 +1,5 @@
-import schedule       # third-party library
-import time           # built-in library
+import schedule       
+import time           
 import datetime
 import smtplib
 from email.message import EmailMessage
