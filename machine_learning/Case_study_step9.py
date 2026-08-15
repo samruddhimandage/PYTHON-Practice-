@@ -178,3 +178,5 @@ print(cm)
 
 print("Classification report")
 print(classification_report(Y_test , Y_pred))
+
+# convert it to pop
