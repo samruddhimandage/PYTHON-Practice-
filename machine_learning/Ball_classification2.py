@@ -4,6 +4,7 @@ def main():
     #encoding
     #rough --> 1
     #smooth --> 0
+    
     #tennis --> 1
     #cricket --> 2
     
