@@ -1,14 +1,14 @@
-# Python Practice 🚀
+# Python Practice 
 
 A collection of Python programs and practical projects created to strengthen programming skills and explore real-world applications of Python. This repository includes work related to Python applications, automation, machine learning, and deep learning.
 
-## 📌 About the Project
+## About the Project
 
 The **Python Practice** repository serves as a learning and development portfolio for practicing Python programming, experimenting with different technologies, and implementing concepts through hands-on projects.
 
 It is intended to help learners build a strong foundation in Python while exploring areas such as automation, artificial intelligence, and application development.
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 PYTHON_Practice/
@@ -23,7 +23,7 @@ PYTHON_Practice/
 
 *Note: Individual folders may contain additional files, scripts, and subdirectories.*
 
-## ✨ Key Areas
+## Key Areas
 
 - **Python Programming:** Practice programming concepts and problem-solving.
 - **Automation:** Explore ways to automate repetitive tasks using Python.
@@ -31,7 +31,7 @@ PYTHON_Practice/
 - **Deep Learning:** Explore deep learning techniques and related projects.
 - **Python Applications:** Develop practical applications using Python.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Machine Learning
@@ -40,7 +40,7 @@ PYTHON_Practice/
 
 *The libraries and frameworks required depend on the individual project.*
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -100,7 +100,7 @@ If a project contains a `requirements.txt` file, install its dependencies using:
 pip install -r requirements.txt
 ```
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 - Improve Python programming and coding skills.
 - Understand practical implementations of programming concepts.
@@ -108,7 +108,7 @@ pip install -r requirements.txt
 - Learn how Python can be used for automation and application development.
 - Build a portfolio of hands-on programming projects.
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Add detailed descriptions for individual projects.
 - Include usage examples and sample outputs.
@@ -116,7 +116,7 @@ pip install -r requirements.txt
 - Add screenshots or demonstrations where applicable.
 - Improve code documentation and testing.
 
-## 🤝 Contributing
+## Contributing
 
 Suggestions and improvements are welcome. If you would like to contribute:
 
@@ -125,11 +125,11 @@ Suggestions and improvements are welcome. If you would like to contribute:
 3. Make your changes and test your code.
 4. Submit a pull request describing your improvements.
 
-## 📄 License
+## License
 
 No license is specified here. If you intend to allow others to reuse, modify, or distribute this code, consider adding an appropriate open-source license to the repository.
 
-## 👩‍💻 Author
+## Author
 
 **Samruddhi Mandage**
 
